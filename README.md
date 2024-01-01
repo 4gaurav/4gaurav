@@ -1,8 +1,7 @@
 - 👋 Hi, I’m gaurav
-- 👀 I'm a frontend web developer & web designer.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm a frontend web developer & web designer, specializing in UI Design & Web Development. My aim is to mesmerizing the user interface of a website.
+- 🌱 I’m currently learning react.js
+
 
 <!---
 4gaurav/4gaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
